@@ -1,4 +1,4 @@
-
+pip install transformers
 
 from transformers import pipeline
 
