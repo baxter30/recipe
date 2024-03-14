@@ -1,4 +1,4 @@
-/home/adminuser/venv/bin/python -m pip install --upgrade pip
+-m pip install --upgrade pip
 
 
 from transformers import pipeline
