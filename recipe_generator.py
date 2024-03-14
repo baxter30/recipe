@@ -1,4 +1,4 @@
--m pip install --upgrade pip
+upgrade pip
 
 
 from transformers import pipeline
